@@ -1,0 +1,61 @@
+section{
+    height: 400px;
+    padding-bottom: 250px;
+}
+.top-banner{
+    background-image: url("images/images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+h1 span{
+    color: rgb(230, 14, 14);
+}
+.half-width img{
+    width: 90%;
+    height: 550px;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(247, 5, 5), rgb(235, 128, 28));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    padding-top: 4px;
+    
+}
+body{
+    margin: 0%;
+}
+  .topper-p{
+    font-family:  sans-serif;
+  }
+  
+
+.dream-area{
+    background-image: url("images/images/my-bg.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: top right;
+    
+    
+}
+h2{
+    font-size: 40px;
+}
+p{
+    border-left: 2px solid darkred;
+    text-align: center;
+    
+}
